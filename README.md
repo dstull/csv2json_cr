@@ -1,7 +1,7 @@
 # csv2json_cr
 
 [![Docs](https://img.shields.io/badge/docs-available-brightgreen.svg)](<LINK-TO-YOUR-DOCUMENTATION>)
-[![Release](https://img.shields.io/github/release/dstull/csv2json.svg?style=flat-square)](https://github.com/dstull/csv2json_cr/releases/latest)
+[![Release](https://img.shields.io/github/release/dstull/csv2json_cr.svg?style=flat-square)](https://github.com/dstull/csv2json_cr/releases/latest)
 
 
 Converter using headers to minimize file size
