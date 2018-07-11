@@ -1,0 +1,21 @@
+name: csv2json
+version: 0.1.0
+
+authors:
+  - Doug Stull <doug.stull@gmail.com>
+
+description: |
+  Converter using headers to minimize file size
+
+dependencies:
+  commander:
+    github: mrrooijen/commander
+    version: ~> 0.3.3
+
+targets:
+  csv2json:
+    main: src/compile.cr
+
+crystal: 0.25.1
+
+license: MIT
