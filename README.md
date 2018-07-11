@@ -1,6 +1,6 @@
 # csv2json_cr
 
-[![Docs](https://img.shields.io/badge/docs-available-brightgreen.svg)](<LINK-TO-YOUR-DOCUMENTATION>)
+[![Docs](https://img.shields.io/badge/docs-available-brightgreen.svg)](https://dstull.github.io/csv2json_cr/)
 [![Release](https://img.shields.io/github/release/dstull/csv2json_cr/all.svg?style=flat-square)](https://github.com/dstull/csv2json_cr/releases/latest)
 [![Build Status](https://travis-ci.org/dstull/csv2json_cr.svg?branch=master)](https://travis-ci.org/dstull/csv2json_cr)
 
