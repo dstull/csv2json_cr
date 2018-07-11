@@ -2,6 +2,7 @@
 
 [![Docs](https://img.shields.io/badge/docs-available-brightgreen.svg)](<LINK-TO-YOUR-DOCUMENTATION>)
 [![Release](https://img.shields.io/github/release/dstull/csv2json_cr/all.svg?style=flat-square)](https://github.com/dstull/csv2json_cr/releases/latest)
+[![Build Status](https://travis-ci.org/dstull/sv2json_cr.svg?branch=master)](https://travis-ci.org/dstull/csv2json_cr)
 
 
 Converter using headers to minimize file size
