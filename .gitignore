@@ -9,3 +9,6 @@
 /shard.lock
 
 test.*
+
+/spec/tmp/*
+!/spec/tmp/.keep

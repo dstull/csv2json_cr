@@ -1,2 +1,2 @@
 require "./csv2json_cr"
-Csv2jsonCr.run(ARGV)
+Csv2jsonCr::CLI.run(ARGV)
