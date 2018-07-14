@@ -1,6 +1,6 @@
 language: crystal
 script:
-  - crystal spec
+  - cd $TRAVIS_BUILD_DIR && crystal spec
   - crystal docs
 deploy:
   provider: pages
