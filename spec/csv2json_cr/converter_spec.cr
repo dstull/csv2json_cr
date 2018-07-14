@@ -4,8 +4,8 @@ require "file_utils"
 describe Csv2jsonCr::Converter do
   describe ".write_json_to_file" do
     it "converts the file" do
-      input_file = "spec/fixtures/files/test.csv"
-      output_file = "spec/fixtures/files/test.json"
+      input_file = file_fixture("test.csv")
+      output_file = file_fixture("test.json")
       test_output = "spec/tmp/test.json"
       FileUtils.rm_rf(test_output)
 
