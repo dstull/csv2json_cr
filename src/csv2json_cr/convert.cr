@@ -23,10 +23,6 @@ module Csv2jsonCr
           json.field "lines", csv_io.parse
         end
       end
-      # {
-      #   columns: header,
-      #   lines:   csv_io.parse,
-      # }
     end
   end
 end
