@@ -87,4 +87,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [your-github-user](https://github.com/dstull) Doug Stull - creator, maintainer
+- [dstull](https://github.com/dstull) Doug Stull - creator, maintainer
